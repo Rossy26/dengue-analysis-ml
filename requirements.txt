@@ -6,3 +6,6 @@ ipykernel
 pandas
 statsmodels
 tensorflow
+keras
+sktime
+scikeras
