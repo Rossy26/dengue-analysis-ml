@@ -1,4 +1,4 @@
-# Dengue Analysis - Modelado y Predicción (SIVIGILA 2022-2024)
+# Dengue Analysis - Machine learning
 
 Resumen
 -------
@@ -23,7 +23,7 @@ Acerca del dataset
 Objetivo
 --------
 Proyectar la tendencia de casos diarios de dengue (problema de regresión sobre series de tiempo) mediante:
-- Modelos lineales como baseline.
+- Modelos lineales
 - Modelos no lineales (Decision Tree, Random Forest).
 - Modelos de redes neuronales (MLP y DNN).
 - Evaluación usando TimeSeriesSplit y métricas como MAE, RMSE y R².
